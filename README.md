@@ -1,4 +1,9 @@
-Hi guys, I'm Nguyen Minh Duc.
-This is where I put all the DSA problems that I have solved as a freshman in university.
-I'm not very good at this field, so if you have any suggestion, feel free to leave it at Issues.
-Thanks a lot!
+This repository contains C++ solutions to Data Structures and Algorithms problems that I solved during my first year at university.
+
+## Contents
+- Basic algorithms and data structures
+- Problem-solving practice from coursework and online judges
+
+I use this repo to track my progress and improve my problem-solving skills.
+
+Feel free to open an issue if you have suggestions or improvements.
