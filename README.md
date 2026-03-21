@@ -1,9 +1,9 @@
-This repository contains C++ solutions to Data Structures and Algorithms problems that I solved during my first year at university.
+This repository includes c++ solutions to Data Structures and Algorithms problems I have solved as a freshman.
 
-## Contents
-- Basic algorithms and data structures
-- Problem-solving practice from coursework and online judges
+# Highlights
+- Focus on fundamental DSA concepts
+- Clean and readable implementations
 
-I use this repo to track my progress and improve my problem-solving skills.
+I use this to strengthen my problem-solving skills and build a solid foundation in algorithms.
 
-Feel free to open an issue if you have suggestions or improvements.
+Feel free to open an issue if you have any suggestions and improvemnts.
