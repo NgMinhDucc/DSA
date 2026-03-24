@@ -26,7 +26,7 @@ int dem_tplt(){
     return so_tplt;
 }
 
-void dinh_cau(){
+void dinh_tru(){
     int tplt = dem_tplt();
     for (int i = 1; i <= n; i++){
         visited.assign(n + 1, false);
@@ -63,6 +63,6 @@ int main(){
         }
     }
     dothi();
-    dinh_cau();
+    dinh_tru();
     return 0;
 }
